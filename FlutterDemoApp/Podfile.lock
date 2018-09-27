@@ -1,0 +1,16 @@
+PODS:
+  - FlutterAppPod (0.0.1)
+
+DEPENDENCIES:
+  - FlutterAppPod (from `../../FlutterAppPod/`)
+
+EXTERNAL SOURCES:
+  FlutterAppPod:
+    :path: "../../FlutterAppPod/"
+
+SPEC CHECKSUMS:
+  FlutterAppPod: d5f652fbaaf84ae42f147df416b4b45e907e0516
+
+PODFILE CHECKSUM: b1d30176be00892ab8874255f0a95841442b9c51
+
+COCOAPODS: 1.5.3
